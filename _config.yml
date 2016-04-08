@@ -4,51 +4,17 @@
 # Site settings
 title: Human Direction
 description: |
-  Organic Project
+  Organic RBG
 owner: Adam Zhujiang
 first_published: 2016
 email: adamzhujiang@gmail.com
 baseurl: ""
-url: organicproject.com
+url: http://adamzhujiang.github.io/RBG/
 social:
   twitter: https://twitter.com/<username>
   github: https://github.com/<username>
   linkedin-square: https://linkedin.com/in/<username>
   facebook-official: https://facebook.com/<username>
-  #email: /contact/
-  #flickr:
-  #instagram:
-  #youtube-square:
-  #spotify:
-  #stack-overflow:
-  #vimeo:
-  #reddit:
-  #stubleupon:
-  #delicious:
-  #pied-piper:
-  #digg:
-  #soundcloud:
-  #deviantart:
-  #angellist:
-  #tumblr-square:
-  #stackexchange:
-  #weibo:
-  #trello:
-  #foursquare:
-  #linux:
-  #bitbucket-square:
-  #vk:
-  #slack:
-  #vine:
-  #weixin:
-  #yelp:
-  #skyatlas:
-  #leanpub:
-  #connectdevelop:
-  #ils:
-  #forumbee:
-  #tripadvisor:
-  #amazon:
 
 # Build settings
 markdown: kramdown
